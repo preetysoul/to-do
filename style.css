@@ -116,6 +116,7 @@ transition: all 0.2s ease;
     width: 100%;
     color: rgb(44, 5, 5);
     font-size: 2 rem;
+    
 
 }
 .done{
@@ -123,6 +124,16 @@ transition: all 0.2s ease;
     opacity: 0.6;
     color: black;
 }
+.doneBtn {
+    background-color: green;
+    color: white;
+}
+
+.delBtn {
+    background-color: red;
+    color: white;
+}
+
 
 
 
